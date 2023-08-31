@@ -1,5 +1,8 @@
 # coupon-service
 
+## layout
+[피그마 바로가기](https://www.figma.com/file/99t3FvwJW7L8B7XXmOcpMn/jintto's-coupon-service?type=design&node-id=7%3A1452&mode=design&t=BEq36BmOZWxvXMul-1)
+
 ## 요구사항
 
 1. 쿠폰
